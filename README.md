@@ -1,2 +1,2 @@
-# Finding-Donors
-Finding Donors for different charitable trust using supervised learning
+# donor-prediction
+Machine Learning project : Predict donors using US Census data
